@@ -1,3 +1,5 @@
+NOTE THAT THIS CODE WILL NOT RUN WITHOUT ITS DATA FILES. They are multiple GBs large and so not included in the repository. The Ntuple and root_data directories mentioned below contain the data.
+
 
 Qsigex must be installed
 --------------------------------------------------
